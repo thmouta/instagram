@@ -1,3 +1,11 @@
-### RecriaÁ„o da p·gina inicial do Instagram 
+### Recria√ß√£o da p√°gina inicial do Instagram 
 
-ReconstruÁ„o da p·gina inicial de login do Instagram, abordando o conceito sobre CSS utilizando Flexbox. Projeto faz parte do Bootcamp HTML Web Developer da Digital Innovation One.
+Reconstru√ß√£o da p√°gina inicial de login do Instagram, abordando o conceito sobre CSS utilizando Flexbox. Projeto faz parte do Bootcamp HTML Web Developer da Digital Innovation One.
+
+## Projeto final
+
+<img src ="instagram/img/insta.png" >
+
+## Link do Projeto
+
+https://thmouta.github.io/instagram/
