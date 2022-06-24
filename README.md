@@ -4,7 +4,7 @@ Reconstrução da página inicial de login do Instagram, abordando o conceito so
 
 ## Resultado
 
-<img src ="https://github.com/thmouta/instagram/img/insta.png" >
+<img src ="https://github.com/thmouta/instagram/blob/master/img/insta.png" >
 
 ## Link do Projeto
 
